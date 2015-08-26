@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.caocaosong.cn/govcloud/GovcloudServer.ipa</string>
+					<string>http://www.caocaosong.cn/gov/GovcloudServer.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.caocaosong.cn/govcloud/icon@2x.png</string>
+					<string>http://www.caocaosong.cn/gov/icon@2x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.caocaosong.cn/govcloud/icon.png</string>
+					<string>http://www.caocaosong.cn/gov/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
