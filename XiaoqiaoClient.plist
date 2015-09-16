@@ -27,13 +27,13 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://app.caocaosong.cn/app/Icon_business.png</string>
+					<string>http://xqcj.caocaosong.cn/app/Icon_business.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.xiaoqiaochujiale.clientc</string>
+				<string>com.xiaoqiaochujiale.qiaoclientc</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
